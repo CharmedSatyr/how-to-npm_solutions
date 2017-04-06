@@ -1,0 +1,26 @@
+{
+  "name": "how-to-npm_solutions",
+  "version": "1.0.0",
+  "description": "My solutions to nodeschool.io's how-to-npm module, saved here for reference.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharmedSatyr/how-to-npm_solutions.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "node.js"
+  ],
+  "author": "CharmedSatyr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CharmedSatyr/how-to-npm_solutions/issues"
+  },
+  "homepage": "https://github.com/CharmedSatyr/how-to-npm_solutions#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  }
+}
