@@ -1,6 +1,6 @@
 {
   "name": "how-to-npm_solutions",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My solutions to nodeschool.io's how-to-npm module, saved here for reference.",
   "main": "test.js",
   "scripts": {
