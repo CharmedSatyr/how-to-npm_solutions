@@ -20,7 +20,5 @@
     "url": "https://github.com/CharmedSatyr/how-to-npm_solutions/issues"
   },
   "homepage": "https://github.com/CharmedSatyr/how-to-npm_solutions#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.3"
-  }
+  "dependencies": {}
 }
